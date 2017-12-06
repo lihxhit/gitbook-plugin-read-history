@@ -1,0 +1,31 @@
+{
+  "name": "gitbook-plugin-read-history",
+  "version": "1.0.0",
+  "description": "gitbook plugin for save read history",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/lihxhit/gitbook-plugin-read-history.git"
+  },
+  "keywords": [
+    "gitbook",
+    "gitbook-plugin",
+    "read-history"
+  ],
+  "author": "lihxhit",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/lihxhit/gitbook-plugin-read-history/issues"
+  },
+  "homepage": "https://github.com/lihxhit/gitbook-plugin-read-history#readme",
+  "engines": {
+    "gitbook": ">2.5.0"
+  },
+  "gitbook": {
+    "properties": {
+    }
+  }
+}
